@@ -1,0 +1,83 @@
+id	modality	first_samp	left_before	left_removed	left_after	right_before	right_removed	right_after	n_BAD	status	notes
+sub-001_ses-001_task-braille_run-001	opm	31930	40	0	40	40	0	40	0	OK	
+sub-001_ses-002_task-braille_run-001	opm	35501	40	0	40	40	0	40	0	OK	
+sub-001_ses-003_task-braille_run-001	squid	17069	40	0	40	39	0	39	0	COUNT_MISMATCH	Right_trial: 39 stim events (expected 40)
+sub-001_ses-004_task-braille_run-001	squid	2573	41	1	40	40	0	40	0	DUPLICATES_REMOVED	Left_trial@800.34s
+sub-002_ses-001_task-braille_run-001	opm	1924	40	0	40	40	0	40	1	OK	
+sub-002_ses-002_task-braille_run-001	opm	1281	40	0	40	40	0	40	0	OK	
+sub-002_ses-003_task-braille_run-001	squid	1409	41	1	40	40	0	40	0	DUPLICATES_REMOVED	Left_trial@816.53s
+sub-002_ses-004_task-braille_run-001	squid	1389	40	0	40	40	0	40	6	OK	
+sub-003_ses-001_task-braille_run-001	opm	1287	40	0	40	40	0	40	0	OK	
+sub-003_ses-002_task-braille_run-001	opm	1786	40	0	40	40	0	40	1	OK	
+sub-003_ses-003_task-braille_run-001	squid	1426	40	0	40	41	1	40	1	DUPLICATES_REMOVED	Right_trial@359.87s
+sub-003_ses-004_task-braille_run-001	squid	1531	40	0	40	41	1	40	4	DUPLICATES_REMOVED	Right_trial@66.43s
+sub-004_ses-001_task-braille_run-001	opm	1285	40	0	40	40	0	40	5	OK	
+sub-004_ses-002_task-braille_run-001	opm	1672	40	0	40	40	0	40	3	OK	
+sub-004_ses-003_task-braille_run-001	squid	1954	40	0	40	41	1	40	0	DUPLICATES_REMOVED	Right_trial@718.86s
+sub-004_ses-004_task-braille_run-001	squid	1743	40	0	40	41	1	40	0	DUPLICATES_REMOVED	Right_trial@294.99s
+sub-005_ses-001_task-braille_run-001	opm	2739	40	0	40	40	0	40	16	OK	
+sub-005_ses-002_task-braille_run-001	opm	2268	40	0	40	40	0	40	23	OK	
+sub-005_ses-003_task-braille_run-001	squid	2060	40	0	40	40	0	40	0	OK	
+sub-005_ses-004_task-braille_run-001	squid	856	40	0	40	40	0	40	10	OK	
+sub-006_ses-001_task-braille_run-001	opm	2005	40	0	40	40	0	40	7	OK	
+sub-006_ses-002_task-braille_run-001	opm	2293	40	0	40	40	0	40	11	OK	
+sub-006_ses-003_task-braille_run-001	squid	3158	40	0	40	40	0	40	3	OK	
+sub-006_ses-004_task-braille_run-001	squid	3037	40	0	40	40	0	40	0	OK	
+sub-007_ses-001_task-braille_run-001	opm	1828	40	0	40	40	0	40	3	OK	
+sub-007_ses-002_task-braille_run-001	opm	2309	40	0	40	40	0	40	11	OK	
+sub-007_ses-003_task-braille_run-001	squid	2885	40	0	40	40	0	40	4	OK	
+sub-007_ses-004_task-braille_run-001	squid	4991	40	0	40	42	2	40	15	DUPLICATES_REMOVED	Right_trial@572.49s; Right_trial@605.36s
+sub-009_ses-001_task-braille_run-001	opm	1942	40	0	40	40	0	40	7	OK	
+sub-009_ses-002_task-braille_run-001	opm	1608	40	0	40	40	0	40	6	OK	
+sub-009_ses-003_task-braille_run-001	squid	2556	40	0	40	41	1	40	0	DUPLICATES_REMOVED	Right_trial@1012.70s
+sub-009_ses-004_task-braille_run-001	squid	2534	41	1	40	41	1	40	0	DUPLICATES_REMOVED	Left_trial@1179.42s; Right_trial@869.27s
+sub-010_ses-001_task-braille_run-001	opm	2346	40	0	40	40	0	40	27	OK	
+sub-010_ses-002_task-braille_run-001	opm	2637	40	0	40	40	0	40	14	OK	
+sub-010_ses-003_task-braille_run-001	squid	1888	40	0	40	40	0	40	6	OK	
+sub-010_ses-004_task-braille_run-001	squid	1843	41	1	40	40	0	40	10	DUPLICATES_REMOVED	Left_trial@311.56s
+sub-011_ses-001_task-braille_run-001	opm	1962	40	0	40	40	0	40	0	OK	
+sub-011_ses-002_task-braille_run-001	opm	2371	40	0	40	40	0	40	0	OK	
+sub-011_ses-003_task-braille_run-001	squid	1501	40	0	40	41	1	40	1	DUPLICATES_REMOVED	Right_trial@523.62s
+sub-011_ses-004_task-braille_run-001	squid	1761	40	0	40	42	2	40	0	DUPLICATES_REMOVED	Right_trial@556.23s; Right_trial@866.06s
+sub-012_ses-001_task-braille_run-001	opm	3781	40	0	40	40	0	40	0	OK	
+sub-012_ses-002_task-braille_run-001	opm	2407	40	0	40	40	0	40	1	OK	
+sub-012_ses-003_task-braille_run-001	squid	2472	40	0	40	41	1	40	0	DUPLICATES_REMOVED	Right_trial@327.69s
+sub-012_ses-004_task-braille_run-001	squid	1623	40	0	40	41	1	40	0	DUPLICATES_REMOVED	Right_trial@752.13s
+sub-013_ses-001_task-braille_run-001	opm	3492	40	0	40	40	0	40	3	OK	
+sub-013_ses-002_task-braille_run-001	opm	1862	40	0	40	40	0	40	6	OK	
+sub-013_ses-003_task-braille_run-001	squid	1597	40	0	40	40	0	40	0	OK	
+sub-013_ses-004_task-braille_run-001	squid	1646	40	0	40	40	0	40	0	OK	
+sub-014_ses-001_task-braille_run-001	opm	1476	40	0	40	40	0	40	14	OK	
+sub-014_ses-002_task-braille_run-001	opm	2101	40	0	40	40	0	40	9	OK	
+sub-014_ses-003_task-braille_run-001	squid	2453	40	0	40	40	0	40	0	OK	
+sub-014_ses-004_task-braille_run-001	squid	1586	40	0	40	40	0	40	8	OK	
+sub-015_ses-001_task-braille_run-001	opm	1998	40	0	40	40	0	40	4	OK	
+sub-015_ses-002_task-braille_run-001	opm	2014	40	0	40	40	0	40	6	OK	
+sub-015_ses-003_task-braille_run-001	squid	1905	41	1	40	40	0	40	0	DUPLICATES_REMOVED	Left_trial@800.61s
+sub-015_ses-004_task-braille_run-001	squid	2561	40	0	40	40	0	40	1	OK	
+sub-016_ses-001_task-braille_run-001	opm	1870	40	0	40	40	0	40	3	OK	
+sub-016_ses-002_task-braille_run-001	opm	2086	40	0	40	40	0	40	1	OK	
+sub-016_ses-003_task-braille_run-001	squid	1937	41	1	40	41	1	40	0	DUPLICATES_REMOVED	Left_trial@33.77s; Right_trial@703.18s
+sub-016_ses-004_task-braille_run-001	squid	2046	41	1	40	40	0	40	0	DUPLICATES_REMOVED	Left_trial@33.76s
+
+Sessions with duplicate triggers (17):
+  sub-001_ses-004_task-braille_run-001: left 1, right 0 removed  (Left_trial@800.34s)
+  sub-002_ses-003_task-braille_run-001: left 1, right 0 removed  (Left_trial@816.53s)
+  sub-003_ses-003_task-braille_run-001: left 0, right 1 removed  (Right_trial@359.87s)
+  sub-003_ses-004_task-braille_run-001: left 0, right 1 removed  (Right_trial@66.43s)
+  sub-004_ses-003_task-braille_run-001: left 0, right 1 removed  (Right_trial@718.86s)
+  sub-004_ses-004_task-braille_run-001: left 0, right 1 removed  (Right_trial@294.99s)
+  sub-007_ses-004_task-braille_run-001: left 0, right 2 removed  (Right_trial@572.49s; Right_trial@605.36s)
+  sub-009_ses-003_task-braille_run-001: left 0, right 1 removed  (Right_trial@1012.70s)
+  sub-009_ses-004_task-braille_run-001: left 1, right 1 removed  (Left_trial@1179.42s; Right_trial@869.27s)
+  sub-010_ses-004_task-braille_run-001: left 1, right 0 removed  (Left_trial@311.56s)
+  sub-011_ses-003_task-braille_run-001: left 0, right 1 removed  (Right_trial@523.62s)
+  sub-011_ses-004_task-braille_run-001: left 0, right 2 removed  (Right_trial@556.23s; Right_trial@866.06s)
+  sub-012_ses-003_task-braille_run-001: left 0, right 1 removed  (Right_trial@327.69s)
+  sub-012_ses-004_task-braille_run-001: left 0, right 1 removed  (Right_trial@752.13s)
+  sub-015_ses-003_task-braille_run-001: left 1, right 0 removed  (Left_trial@800.61s)
+  sub-016_ses-003_task-braille_run-001: left 1, right 1 removed  (Left_trial@33.77s; Right_trial@703.18s)
+  sub-016_ses-004_task-braille_run-001: left 1, right 0 removed  (Left_trial@33.76s)
+
+Sessions needing attention (1):
+  sub-001_ses-003_task-braille_run-001: COUNT_MISMATCH Right_trial: 39 stim events (expected 40)
