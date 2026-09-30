@@ -243,7 +243,7 @@ def mean_and_spread(vals):
     return m, max(vals.max() - m, m - vals.min())
 
 
-def plot_corr_mats(mats, filename):
+def plot_corr_mats(mats, filename, tick_labels=MATRIX_TICK_LABELS, tick_labelsize=12):
     """Plot the 3 correlation matrices side by side with a shared colourbar."""
     y_axis_labels = ['OPM1', 'SQUID1', 'OPM']
     x_axis_labels = ['OPM2', 'SQUID2', 'SQUID']
@@ -273,9 +273,9 @@ def plot_corr_mats(mats, filename):
         n = mat.shape[0]
         ax.set_xticks(np.arange(n))
         ax.set_yticks(np.arange(n))
-        ax.set_xticklabels(MATRIX_TICK_LABELS)
-        ax.set_yticklabels(MATRIX_TICK_LABELS)
-        ax.tick_params(axis='both', labelsize=12)
+        ax.set_xticklabels(tick_labels)
+        ax.set_yticklabels(tick_labels)
+        ax.tick_params(axis='both', labelsize=tick_labelsize)
 
         # mark row-wise maxima
         for i in range(n):
